@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0344-reverse-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
