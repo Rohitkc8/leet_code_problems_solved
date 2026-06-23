@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0345-reverse-vowels-of-a-string) |
