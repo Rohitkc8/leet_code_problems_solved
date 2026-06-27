@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
