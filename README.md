@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
