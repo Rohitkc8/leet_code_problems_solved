@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0389-find-the-difference) |
@@ -139,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
@@ -167,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2185-counting-words-with-a-given-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
