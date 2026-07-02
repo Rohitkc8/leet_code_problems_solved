@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
