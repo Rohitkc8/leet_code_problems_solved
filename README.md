@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0322-coin-change) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
