@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
