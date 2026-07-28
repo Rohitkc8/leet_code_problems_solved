@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1480-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
+| [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,4 +219,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0054-spiral-matrix) |
+| [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
