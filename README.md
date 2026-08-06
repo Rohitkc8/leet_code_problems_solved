@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
