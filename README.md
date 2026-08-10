@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0389-find-the-difference) |
 ## Sliding Window
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
