@@ -235,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
