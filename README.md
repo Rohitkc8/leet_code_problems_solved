@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
 |  |
 | ------- |
