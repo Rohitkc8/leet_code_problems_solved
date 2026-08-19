@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0216-combination-sum-iii) |
 ## Memoization
 |  |
 | ------- |
