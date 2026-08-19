@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0242-valid-anagram) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0216-combination-sum-iii) |
 ## Memoization
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0176-second-highest-salary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
