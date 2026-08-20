@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1137-n-th-tribonacci-number) |
@@ -287,4 +288,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
