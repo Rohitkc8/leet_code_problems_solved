@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0151-reverse-words-in-a-string) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0046-permutations) |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1025-divisor-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
