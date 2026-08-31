@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0704-binary-search) |
+| [0740-delete-and-earn](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0740-delete-and-earn) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0740-delete-and-earn) |
 | [1025-divisor-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [1436-destination-city](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1832-check-if-the-sentence-is-pangram) |
