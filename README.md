@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0216-combination-sum-iii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [1219-path-with-maximum-gold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1219-path-with-maximum-gold) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0322-coin-change) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Simulation
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 ## Brainteaser
 |  |
 | ------- |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
