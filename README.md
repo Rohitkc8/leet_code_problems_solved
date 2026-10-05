@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -364,4 +366,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
