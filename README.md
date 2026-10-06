@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1219-path-with-maximum-gold) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
