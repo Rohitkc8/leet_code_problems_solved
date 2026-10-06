@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0740-delete-and-earn) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
 | [1219-path-with-maximum-gold](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1219-path-with-maximum-gold) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0841-keys-and-rooms) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
