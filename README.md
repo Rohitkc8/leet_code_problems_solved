@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1094-car-pooling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3074-apple-redistribution-into-boxes) |
 ## String Matching
 |  |
 | ------- |
