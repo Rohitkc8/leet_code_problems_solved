@@ -10,7 +10,6 @@ class Solution:
                 visited[i]=0
             while q:
                 node=q.popleft()
-                print(node)
                 for nxt in graph[node]:
                     if visited[nxt]==-1:
                         if visited[node]==1:
