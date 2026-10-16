@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0463-island-perimeter) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0207-course-schedule) |
+| [0419-battleships-in-a-board](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0695-max-area-of-island) |
