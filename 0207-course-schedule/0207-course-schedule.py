@@ -1,31 +1,23 @@
-
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        path_visited = [0] * numCourses
-        visited = [0] * numCourses
         graph = [[] for _ in range(numCourses)]
-
-        for a, b in prerequisites:
-            graph[a].append(b)
-
-        def dfs(node):
-            visited[node] = 1
-            path_visited[node] = 1
-
-            for nxt in graph[node]:
-                if visited[nxt] == 0:
-                    if dfs(nxt):
-                        return True
-                else:
-                    if path_visited[nxt] == 1:
-                        return True
-
-            path_visited[node] = 0
-            return False
-
+        indgree = [0] * numCourses
+        from collections import deque
+        q=deque()
+        for a,b in prerequisites:
+            graph[b].append(a)
+            indgree[a]+=1
         for i in range(numCourses):
-            if visited[i] == 0:
-                if dfs(i):
-                    return False
-
-        return True
+            if indgree[i]==0:
+                q.append(i)
+        c=0
+        while q:
+            node=q.popleft()
+            c+=1
+            for nei in graph[node]:
+                indgree[nei]-=1
+                if indgree[nei]==0:
+                    q.append(nei)
+        return c==numCourses
+        
+        
