@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2409-count-days-spent-together](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3120-count-the-number-of-special-characters-i) |
