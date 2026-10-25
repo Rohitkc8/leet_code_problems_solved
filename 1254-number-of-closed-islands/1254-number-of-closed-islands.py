@@ -11,6 +11,7 @@ class Solution:
             if grid[m-1][i]==0:
                 grid[m-1][i]=1
                 q.append((m-1,i))
+                
         for i in range(m):
             if grid[i][0]==0:
                 grid[i][0]=1
@@ -18,6 +19,7 @@ class Solution:
             if grid[i][n-1]==0:
                 grid[i][n-1]=1
                 q.append((i,n-1))
+
         directions=[(1,0),(-1,0),(0,1),(0,-1)]
         while q:
             r,c=q.popleft()
