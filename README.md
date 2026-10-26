@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Brainteaser
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
