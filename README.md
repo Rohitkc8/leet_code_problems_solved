@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0841-keys-and-rooms) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
