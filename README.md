@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0242-valid-anagram) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0187-repeated-dna-sequences) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0207-course-schedule) |
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Rohitkc8/leet_code_problems_solved/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
